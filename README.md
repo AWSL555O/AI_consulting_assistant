@@ -58,6 +58,9 @@ python main.py --mode demo
 
 # 交互模式
 python main.py --mode interactive
+
+#AI助手网页问答
+  python chat_ui.py
 ```
 
 ## 工作流程
