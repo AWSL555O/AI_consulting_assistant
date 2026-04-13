@@ -1,0 +1,572 @@
+[
+  {
+    "name": "buvid3",
+    "value": "B28F1E38-8F3B-2C7A-A656-87206E08BF9B04527infoc",
+    "domain": ".bilibili.com",
+    "path": "/",
+    "expires": 1810389104.800166,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "b_nut",
+    "value": "1775829104",
+    "domain": ".bilibili.com",
+    "path": "/",
+    "expires": 1807365104.800279,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "buvid4",
+    "value": "D0B719A6-C23E-6220-EBB8-C4F3DF0C8AF205024-026041021-OGFa7F90XVK9qgOSvpHbhQ%3D%3D",
+    "domain": ".bilibili.com",
+    "path": "/",
+    "expires": 1810389105.311954,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "buvid_fp",
+    "value": "1efcaa403532e299950ade6f11c7067a",
+    "domain": ".bilibili.com",
+    "path": "/",
+    "expires": 1807365105,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "csrf_state",
+    "value": "c09510f0faad221410e68a09b7b4e164",
+    "domain": ".bilibili.com",
+    "path": "/",
+    "expires": 1775829707.321003,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ui",
+    "value": "9E45DB8F-C44E-4605-90AC-60120071F659",
+    "domain": ".graph.qq.com",
+    "path": "/",
+    "expires": 1806587507.667657,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "pt_login_sig",
+    "value": "OFgGBGISIEUqarMSEz6CjtlrsVE67T2F7oHKttRUHVFoeaIocVV01igwLiektuVh",
+    "domain": ".ptlogin2.qq.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "pt_clientip",
+    "value": "5ce5710fdb944f26",
+    "domain": ".ptlogin2.qq.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "pt_serverip",
+    "value": "f7417f000001843f",
+    "domain": ".ptlogin2.qq.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "pt_local_token",
+    "value": "1257222896",
+    "domain": ".ptlogin2.qq.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "uikey",
+    "value": "f3b7532740d9146ad7c3187501d4ed2ea03bee84338b133ca35c4e71cc7108cb",
+    "domain": ".ptlogin2.qq.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "__aegis_uid",
+    "value": "f7417f000001843f-5ce5710fdb944f26-7556",
+    "domain": ".xui.ptlogin2.qq.com",
+    "path": "/",
+    "expires": 1776001907,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_qpsvr_localtk",
+    "value": "0.008738701074301636",
+    "domain": ".qq.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "olu",
+    "value": "7fce4f8d001f03d0544c6768004f1c14ab42a93c5133b485",
+    "domain": ".ptlogin2.qq.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "qrsig",
+    "value": "dea2d5ced7327bd7bf94548c727e3d2b305a26e87de7de0f8367ac1f5cacb9ac8662b05a826d90747505304318f1669a96f3032e0176e9937fd6adda8800d0cb",
+    "domain": ".ptlogin2.qq.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "clientuin",
+    "value": "1471090987",
+    "domain": ".ptlogin2.qq.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "pt2gguin",
+    "value": "o1471090987",
+    "domain": ".ptlogin2.qq.com",
+    "path": "/",
+    "expires": 1810389109.136556,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ETK",
+    "value": "",
+    "domain": ".ptlogin2.qq.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "pt_recent_uins",
+    "value": "66054cbcaef29ebd4c9b9e030e6c333d613a567faae2832c5040507664dd2ca465db2fb7750ef34dd9f6025026df26279d643a43cb6be91d",
+    "domain": ".ptlogin2.qq.com",
+    "path": "/",
+    "expires": 1778421109.136611,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "pt_guid_sig",
+    "value": "efb9e82f92d846daf8d47eeb8faba03895071358c0806b9f63216d74731451f4",
+    "domain": ".ptlogin2.qq.com",
+    "path": "/",
+    "expires": 1778421109.136631,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "RK",
+    "value": "Y2qDQVLleH",
+    "domain": ".qq.com",
+    "path": "/",
+    "expires": 1810389109.136674,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ptnick_1471090987",
+    "value": "6b616275746f",
+    "domain": ".ptlogin2.qq.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "ptcz",
+    "value": "ea5a16dfed0e20889cd428a934afde8d0a06cbb420b2a2f2dad70c709957afd2",
+    "domain": ".qq.com",
+    "path": "/",
+    "expires": 1810389109.136706,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "p_uin",
+    "value": "o1471090987",
+    "domain": ".graph.qq.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "pt4_token",
+    "value": "WI8KGX23CAoxXztQ6fSOQX8-sKE9G9n1PVjcVilVeKQ_",
+    "domain": ".graph.qq.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "p_skey",
+    "value": "F3*jLdA6fvoQYcUQymB99oMaX2QtMcRLvdv7709JwOc_",
+    "domain": ".graph.qq.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "pt_oauth_token",
+    "value": "sX-g3HiNxsdYrIh86sWmHqfts1SF*gm1teba-*SzC1okt0mA1ZQKidlux9VhZrjlhF1qkINp3Bk_",
+    "domain": ".graph.qq.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "pt_login_type",
+    "value": "2",
+    "domain": ".graph.qq.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SESSDATA",
+    "value": "46e38cf6%2C1791381109%2C6c06f%2A42CjCWhzkAGXp7QmDmNMDx-oZexHruYzaeQcdl_u4pvSqFwuIiuzGvdMu_WA6uIzR1xxESVmJKd3BZYk15Uzh4Z1p2clBzb0theC14enFPaWpXQmZyVnhYR2U4NzgzMjBCemNlQzZ3bW8zSEZ1YXhIOVBLZi1NTlo3dzk3YzFLdjZwTlhIXzRMVlJ3IIEC",
+    "domain": ".bilibili.com",
+    "path": "/",
+    "expires": 1791381109.284519,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bili_jct",
+    "value": "6e0637a464a6783cfb100c9f9829a297",
+    "domain": ".bilibili.com",
+    "path": "/",
+    "expires": 1791381109.28462,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "DedeUserID",
+    "value": "181753517",
+    "domain": ".bilibili.com",
+    "path": "/",
+    "expires": 1791381109.284652,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "DedeUserID__ckMd5",
+    "value": "83ee31eb6cac07e4",
+    "domain": ".bilibili.com",
+    "path": "/",
+    "expires": 1791381109.284679,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "sid",
+    "value": "q1akg408",
+    "domain": ".bilibili.com",
+    "path": "/",
+    "expires": 1791381109.284704,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "SESSDATA",
+    "value": "46e38cf6%2C1791381109%2C6c06f%2A42CjCWhzkAGXp7QmDmNMDx-oZexHruYzaeQcdl_u4pvSqFwuIiuzGvdMu_WA6uIzR1xxESVmJKd3BZYk15Uzh4Z1p2clBzb0theC14enFPaWpXQmZyVnhYR2U4NzgzMjBCemNlQzZ3bW8zSEZ1YXhIOVBLZi1NTlo3dzk3YzFLdjZwTlhIXzRMVlJ3IIEC",
+    "domain": ".biligame.com",
+    "path": "/",
+    "expires": 1791381109.51883,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bili_jct",
+    "value": "6e0637a464a6783cfb100c9f9829a297",
+    "domain": ".biligame.com",
+    "path": "/",
+    "expires": 1791381109.518925,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "DedeUserID",
+    "value": "181753517",
+    "domain": ".biligame.com",
+    "path": "/",
+    "expires": 1791381109.518962,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "DedeUserID__ckMd5",
+    "value": "83ee31eb6cac07e4",
+    "domain": ".biligame.com",
+    "path": "/",
+    "expires": 1791381109.518987,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sid",
+    "value": "8dhr4b56",
+    "domain": ".biligame.com",
+    "path": "/",
+    "expires": 1791381109.519012,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "SESSDATA",
+    "value": "46e38cf6%2C1791381109%2C6c06f%2A42CjCWhzkAGXp7QmDmNMDx-oZexHruYzaeQcdl_u4pvSqFwuIiuzGvdMu_WA6uIzR1xxESVmJKd3BZYk15Uzh4Z1p2clBzb0theC14enFPaWpXQmZyVnhYR2U4NzgzMjBCemNlQzZ3bW8zSEZ1YXhIOVBLZi1NTlo3dzk3YzFLdjZwTlhIXzRMVlJ3IIEC",
+    "domain": ".bilibili.cn",
+    "path": "/",
+    "expires": 1791381109.64347,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bili_jct",
+    "value": "6e0637a464a6783cfb100c9f9829a297",
+    "domain": ".bilibili.cn",
+    "path": "/",
+    "expires": 1791381109.643567,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "DedeUserID",
+    "value": "181753517",
+    "domain": ".bilibili.cn",
+    "path": "/",
+    "expires": 1791381109.643628,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "DedeUserID__ckMd5",
+    "value": "83ee31eb6cac07e4",
+    "domain": ".bilibili.cn",
+    "path": "/",
+    "expires": 1791381109.643676,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sid",
+    "value": "ql4qug8t",
+    "domain": ".bilibili.cn",
+    "path": "/",
+    "expires": 1791381109.643723,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_uuid",
+    "value": "64A510797-19F9-8A109-DCC6-E8C78B62537910653infoc",
+    "domain": ".bilibili.com",
+    "path": "/",
+    "expires": 1807365110,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "SESSDATA",
+    "value": "46e38cf6%2C1791381109%2C6c06f%2A42CjCWhzkAGXp7QmDmNMDx-oZexHruYzaeQcdl_u4pvSqFwuIiuzGvdMu_WA6uIzR1xxESVmJKd3BZYk15Uzh4Z1p2clBzb0theC14enFPaWpXQmZyVnhYR2U4NzgzMjBCemNlQzZ3bW8zSEZ1YXhIOVBLZi1NTlo3dzk3YzFLdjZwTlhIXzRMVlJ3IIEC",
+    "domain": ".huasheng.cn",
+    "path": "/",
+    "expires": 1791381109.810605,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bili_jct",
+    "value": "6e0637a464a6783cfb100c9f9829a297",
+    "domain": ".huasheng.cn",
+    "path": "/",
+    "expires": 1791381109.810655,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "DedeUserID",
+    "value": "181753517",
+    "domain": ".huasheng.cn",
+    "path": "/",
+    "expires": 1791381109.810677,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "DedeUserID__ckMd5",
+    "value": "83ee31eb6cac07e4",
+    "domain": ".huasheng.cn",
+    "path": "/",
+    "expires": 1791381109.810695,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "sid",
+    "value": "88c5c8e3",
+    "domain": ".huasheng.cn",
+    "path": "/",
+    "expires": 1791381109.810711,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "bmg_af_switch",
+    "value": "1",
+    "domain": "www.bilibili.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bmg_src_def_domain",
+    "value": "i1.hdslb.com",
+    "domain": "www.bilibili.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "home_feed_column",
+    "value": "4",
+    "domain": ".bilibili.com",
+    "path": "/",
+    "expires": 1807365111,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "browser_resolution",
+    "value": "1280-720",
+    "domain": ".bilibili.com",
+    "path": "/",
+    "expires": 1807365111,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "theme-tip-show",
+    "value": "SHOWED",
+    "domain": ".bilibili.com",
+    "path": "/",
+    "expires": 1807365111,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bili_ticket",
+    "value": "eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NzYwODgzMTEsImlhdCI6MTc3NTgyOTA1MSwicGx0IjotMX0.L9cr9ME-bfMvsdMXDC70ESL797qnNTYFTQdb671NGuc",
+    "domain": ".bilibili.com",
+    "path": "/",
+    "expires": 1776088311,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "bili_ticket_expires",
+    "value": "1776088251",
+    "domain": ".bilibili.com",
+    "path": "/",
+    "expires": 1776088311,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "b_lsid",
+    "value": "6CA38B43_19D77A9EAF9",
+    "domain": ".bilibili.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]
